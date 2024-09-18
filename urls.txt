@@ -1,0 +1,2 @@
+http://backend.course#Maxim-Volianik
+http://backend.course?name=“Воляник Максим”&github_name=Maxim-Volianik&group=“ФЕІ-21с”&subgroup=2
